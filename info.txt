@@ -1,0 +1,8 @@
+node install 
+https://nodejs.org/en/download/
+visual studio code 
+https://code.visualstudio.com/download
+Create folder on desktop and open with visual studio code
+Create file with extension .js  (script.js)
+Open the terminal 
+node script.js
