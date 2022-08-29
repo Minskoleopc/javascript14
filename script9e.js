@@ -1,4 +1,11 @@
+// do {
+//     console.log("hello")
+// }while(3 !== 3)
 
+
+// while(3 !== 3){
+//     console.log("hello")
+// }
 
 // // if(condition){
 // //     // stament

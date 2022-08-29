@@ -85,7 +85,6 @@ let q6 = numbers.includes(4444)
 console.log(q6)
 
 
-
 // property - length 
 // method 
 

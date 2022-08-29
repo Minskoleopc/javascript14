@@ -59,15 +59,16 @@ console.log(randomNumber) // 6
 let userInput;
 //console.log(userInput) // undefined
 
-while (userInput != randomNumber) {
-    userInput = prompt('Please Enter the number between 1 to 6') //6
-    if (userInput == randomNumber) {
-        console.log('your guess is correct')
-    }
-    else {
-        console.log('your guess is incorrect')
-    }
-}
+// while (userInput != randomNumber) {
+//     userInput = prompt('Please Enter the number between 1 to 6') //6
+//     if (userInput == randomNumber) {
+//         console.log('your guess is correct')
+//     }
+//     else {
+//         console.log('your guess is incorrect')
+//     }
+// }
+
 
 
 
