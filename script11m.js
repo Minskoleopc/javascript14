@@ -136,7 +136,8 @@ let q7 = number2.findIndex(function(el,index,arr){
 })
 console.log(q7)
 
-// map(),filer(),forEach(),reduce(),find(),findIndex()
+// map(),filer(),forEach(),reduce(),find(),findIndex(),some(),every()
+// array , array , nothing , single , single , number , boolean , boolean
 
 let r1 = [1,22,33,44,11,22,33,44,500]
 let q8 = r1.every(function(el,index,arr){
