@@ -141,8 +141,11 @@ let x20 = a.concat(b)
 let x21 = b.concat(a)
 
 fruits = ["apple","mango","grapes","chikoo"]
+let x22 = fruits.fill('not available',1)
+console.log(x22)
 
-console.log(fruits.fill('not available',1,3))
+
+
 
 
 
